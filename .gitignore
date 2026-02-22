@@ -7,6 +7,5 @@ data:raw/event-hist/2019-Nov.csv
 data:raw/event-hist/2019-Oct.csv
 data:raw/event-hist/2019-Feb.csv
 data:raw/event-hist/2019-Jan.csv
-__pycache__/
 .ipynb_checkpoints/
 .DS_Store
